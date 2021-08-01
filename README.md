@@ -21,9 +21,11 @@
 
 
 
-- 💻 &nbsp; HTML | CSS | JavaScript | Bootstrap | Processing | p5.js | arduino | ReactJS
+- 💻 &nbsp; | HTML | CSS | JavaScript | Bootstrap | Processing | p5.js | arduino | ReactJS
 
-- 🎨🖌 &nbsp; Illustrator| Photoshop | InDesign | Premiere | After Effects
+- 🎨🖌 &nbsp; | Illustrator| Photoshop | InDesign | Figma | Canva |
+
+- 📺 &nbsp; | Premiere | After Effects | Resolume Arena | OBS Streaming |
 
 - 🔧 &nbsp; Git | Terminal | Osx | Windows | Linux
 
@@ -38,23 +40,20 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelrodrigues&show_icons=true)
 
 <br/>
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+[![Nahuel GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahuelrodrigues&show_icons=true)](https://github.com/nahuelrodrigues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+
 
 <br><br>
 
 
-
 <hr>
-
-
 
 <h3> Connect with Me </h3>
 
