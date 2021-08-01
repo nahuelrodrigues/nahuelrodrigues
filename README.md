@@ -56,7 +56,7 @@
 
 
 
-<h3🏻 Connect with Me </h3>
+<h3> Connect with Me </h3>
 
 <br>
 
@@ -66,9 +66,9 @@
 
 <a href="https://nahuelrodrigues.github.io/portfolio/"><img alt="Website" src="https://img.shields.io/badge/nahuelrodrigues.github.io/portfolio/-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/nahuel-rodrigues-7b482b67/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nahuel-rodrigues-7b482b67/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nahuel%20Rodrigues-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/ninioninianinie/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/ninioninianinie/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ninioninianinie-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:rodriguesnahuel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rodriguesnahuel@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
