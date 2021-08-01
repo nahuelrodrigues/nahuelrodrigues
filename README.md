@@ -21,13 +21,13 @@
 
 
 
-- 💻 &nbsp; | HTML | CSS | JavaScript | Bootstrap | Processing | p5.js | arduino | ReactJS
+- 💻 &nbsp; | HTML5 | CSS3 | JavaScript | jQuery | Bootstrap | Processing | p5.js | arduino | ReactJS
 
 - 🎨🖌 &nbsp; | Illustrator| Photoshop | InDesign | Figma | Canva |
 
 - 📺 &nbsp; | Premiere | After Effects | Resolume Arena | OBS Streaming |
 
-- 🔧 &nbsp; Git | Terminal | Osx | Windows | Linux
+- 🔧 &nbsp; | CMS | Git | Terminal | Osx | Windows | Linux
 
 
 <h3>🛠 To Learn</h3>
