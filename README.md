@@ -15,11 +15,7 @@
 - ✍️ &nbsp; Pursuing Full-Stack Web Development.
 
 
-
 <h3>🛠 Tech Stack</h3>
-
-
-
 
 - 💻 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -49,29 +45,17 @@
 <hr>
 
 
-
-<br/><br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelrodrigues&show_icons=true)
-
-<br/>
-
-<br/>
-
-[![Nahuel GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahuelrodrigues&show_icons=true)](https://github.com/nahuelrodrigues)
+<h3> ⚙️  GitHub Analytics </h3>
 
 
-
-<br><br>
-
+<a href="https://github.com/nahuelrodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelrodrigues&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahuelrodrigues&theme=buefy&show_icons=true" />
+</a>
 
 <hr>
 
-<h3> Connect with Me </h3>
-
-<br>
-
-
+<h3> 📞  Connect with Me </h3>
 
 <p align="center">
 
