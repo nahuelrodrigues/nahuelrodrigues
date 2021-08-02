@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Nahuel Rodrigues</h2>
 
-<img align='right' src="https://portal.sinai.com.co/wp-content/uploads/2019/07/alphatestersanimation2.gif" width="230">
+<img align='center' src="https://portal.sinai.com.co/wp-content/uploads/2019/07/alphatestersanimation2.gif" width="230">
 
 <h3>💻 About Me 💻</h3>
 
